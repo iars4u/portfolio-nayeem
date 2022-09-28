@@ -89,3 +89,10 @@ h2 {
 footer p {
     text-align: center;
 }
+
+.add-nm{
+    text-align: center;
+    height: 150px;
+    width: 100%;
+    background-color: lightblue;
+}
